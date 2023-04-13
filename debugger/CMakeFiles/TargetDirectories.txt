@@ -1,0 +1,5 @@
+/debugger/CMakeFiles/minidbg.dir
+/debugger/CMakeFiles/hello.dir
+/debugger/CMakeFiles/libelfin.dir
+/debugger/CMakeFiles/edit_cache.dir
+/debugger/CMakeFiles/rebuild_cache.dir

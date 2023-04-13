@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  debug:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: x86_ubuntu
+    volumes:
+      - ./debugger:/debugger/
+    command: bash
+    stdin_open: true
+    tty: true
